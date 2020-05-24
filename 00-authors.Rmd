@@ -1,27 +1,27 @@
-# About the Authors {#author .unnumbered}
+# Acerca de los autores {#autor .unnumbered}
 
-Yihui typed out most of the words in this book, which is the only justification for him to be the "first" author. Christophe has made substantial contribution to this book by helping Yihui organize all the GitHub issues and occasionally writing a few sections.
+Yihui escribió la mayoría de las palabras en este libro, que es la única justificación para que él sea el "primer" autor. Christophe ha hecho una contribución sustancial a este libro ayudando a Yihui a organizar todos los problemas de GitHub y, ocasionalmente, escribiendo algunas secciones.
 
-When you see the pronoun "I" in this book, it refers to Yihui. Using "I" instead of "We" does not mean the co-author was forgotten, but Yihui wanted to express certain opinions completely of his own. He certainly wants to appear smart, but in case he is actually silly, he wants to be silly alone.
+Cuando veas el pronombre "yo" en este libro, se refiere a Yihui. Usar "Yo" en lugar de "Nosotros" no significa que el coautor haya sido olvidado, pero Yihui quería expresar ciertas opiniones completamente propias. Ciertamente quiere parecer inteligente, pero en caso de que sea realmente tonto, quiere ser tonto solo.
 
 ## Yihui Xie {-}
 
-Yihui Xie (https://yihui.org) is a software engineer at RStudio (<https://www.rstudio.com>). He earned his PhD from the Department of Statistics, Iowa State University. He is interested in interactive statistical graphics and statistical computing. As an active R user, he has authored several R packages, such as **knitr**, **bookdown**, **blogdown**, **xaringan**, **tinytex**, **rolldown**, **animation**, **DT**, **tufte**, **formatR**, **fun**, **xfun**, **testit**, **mime**, **highr**, **servr**, and **Rd2roxygen**, among which the **animation** package won the 2009 John M. Chambers Statistical Software Award (ASA). He also co-authored a few other R packages, including **shiny**, **rmarkdown**, **pagedown**, and **leaflet**.
+Yihui Xie (https://yihui.org) es ingeniero de software en RStudio (<https://www.rstudio.com>). Obtuvo su doctorado en el Departamento de Estadística de la Universidad Estatal de Iowa. Está interesado en gráficos estadísticos interactivos y computación estadística. Como usuario activo de R, es autor de varios paquetes de R, como ** knitr **, ** bookdown **, ** blogdown **, ** xaringan **, ** tinytex **, ** rolldown ** , ** animación **, ** DT **, ** tufte **, ** formatR **, ** fun **, ** xfun **, ** testit **, ** mime **, * * highr **, ** servr **, y ** Rd2roxygen **, entre los cuales el paquete ** animation ** ganó el 2009 John M. Chambers Statistical Software Award (ASA). También fue coautor de algunos otros paquetes R, incluidos ** shiny **, ** rmarkdown **, ** pagedown ** y ** leaflet **.
 
-He has authored two books, _Dynamic Documents with knitr_ [@knitr2015], and _bookdown: Authoring Books and Technical Documents with R Markdown_ [@bookdown2016], and co-authored two books, _blogdown: Creating Websites with R Markdown_ [@blogdown2017], and _R Markdown: The Definitive Guide_ [@rmarkdown2018].
+Es autor de dos libros, _Dynamics Documents with knitr_ [@ knitr2015], y _bookdown: Authoring Books and Technical Documents with R Markdown_ [@ bookdown2016], y es coautor de dos libros, _blogdown: Creación de sitios web con R Markdown_ [@ blogdown2017], y _R Markdown: la guía definitiva_ [@ rmarkdown2018].
 
-In 2006, he founded the Capital of Statistics (https://cosx.org), which has grown into a large online community on statistics in China. He initiated the Chinese R conference in 2008, and has been involved in organizing R conferences in China since then. During his PhD training at Iowa State University, he won the Vince Sposito Statistical Computing Award (2011) and the Snedecor Award (2012) in the Department of Statistics.
+En 2006, fundó Capital of Statistics (https://cosx.org), que se ha convertido en una gran comunidad en línea sobre estadísticas en China. Inició la conferencia R China en 2008, y ha estado involucrado en la organización de conferencias R en China desde entonces. Durante su formación de doctorado en la Universidad Estatal de Iowa, ganó el Premio Vince Sposito de Estadística Informática (2011) y el Premio Snedecor (2012) en el Departamento de Estadística.
 
-He usually reads Twitter messages once a week (https://twitter.com/xieyihui), and most of the time you can find him on GitHub (https://github.com/yihui).
+Por lo general, lee mensajes de Twitter una vez por semana (https://twitter.com/xieyihui), y la mayoría de las veces puedes encontrarlo en GitHub (https://github.com/yihui).
 
-He has four hobbies: reading, writing, cooking, and playing badminton. He is actually more interested in cooking than eating, but he really loves spicy food. When being asked "how spicy you want your food to be" in the restaurant, he usually answers "as spicy as your chef can make it to be."
+Tiene cuatro pasatiempos: leer, escribir, cocinar y jugar al bádminton. En realidad, está más interesado en cocinar que en comer, pero realmente le encanta la comida picante. Cuando se le pregunta "qué tan picante quiere que sea su comida" en el restaurante, generalmente responde "tan picante como su chef puede hacer que sea".
 
 ## Christophe Dervieux {-}
 
-Christophe Dervieux is an active member of the R community, currently living in France. With a Master's degree in Energy and Economics, he started working with R as an analyst doing economic studies about market designs, before becoming a developer advocate and R admin, promoting R and supporting R users where he works.
+Christophe Dervieux es un miembro activo de la comunidad R, que actualmente vive en Francia. Con una maestría en Energía y Economía, comenzó a trabajar con R como analista haciendo estudios económicos sobre diseños de mercado, antes de convertirse en un defensor de desarrolladores y administrador de R, promoviendo R y apoyando a los usuarios de R donde trabaja.
 
-He is interested in helping others get the most from R, and you can find him wandering in RStudio Community as a sustainer, or on several GitHub issue boards for various R packages. In both places, you may better recognize him by his shorter handle "cderv".
+Está interesado en ayudar a otros a sacar el máximo provecho de R, y puede encontrarlo deambulando en RStudio Community como un sustentador, o en varios foros de GitHub para varios paquetes de R. En ambos lugares, es mejor que lo reconozca por su nombre más corto "cderv".
 
-As an R developer, he is a contributor to several R packages, such as **bookdown**, **rmarkdown**, and **knitr**. He has also co-authored the **crrri** package. His own projects can be found on GitHub (https://github.com/cderv), and sometimes he shares his ideas on Twitter (https://twitter.com/chrisderv).
+Como desarrollador de R, es colaborador de varios paquetes de R, como ** bookdown **, ** rmarkdown ** y ** knitr **. También es coautor del paquete ** crrri **. Sus propios proyectos se pueden encontrar en GitHub (https://github.com/cderv), y a veces comparte sus ideas en Twitter (https://twitter.com/chrisderv).
 
-He does not like spicy food, but he enjoys playing badminton every week.
+No le gusta la comida picante, pero le gusta jugar al bádminton todas las semanas.
