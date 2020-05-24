@@ -6,9 +6,9 @@ Cuando veas el pronombre "yo" en este libro, se refiere a Yihui. Usar "Yo" en lu
 
 ## Yihui Xie {-}
 
-Yihui Xie (https://yihui.org) es ingeniero de software en RStudio (<https://www.rstudio.com>). Obtuvo su doctorado en el Departamento de Estadística de la Universidad Estatal de Iowa. Está interesado en gráficos estadísticos interactivos y computación estadística. Como usuario activo de R, es autor de varios paquetes de R, como ** knitr **, ** bookdown **, ** blogdown **, ** xaringan **, ** tinytex **, ** rolldown ** , ** animación **, ** DT **, ** tufte **, ** formatR **, ** fun **, ** xfun **, ** testit **, ** mime **, * * highr **, ** servr **, y ** Rd2roxygen **, entre los cuales el paquete ** animation ** ganó el 2009 John M. Chambers Statistical Software Award (ASA). También fue coautor de algunos otros paquetes R, incluidos ** shiny **, ** rmarkdown **, ** pagedown ** y ** leaflet **.
+Yihui Xie (https://yihui.org) es ingeniero de software en RStudio (<https://www.rstudio.com>). Obtuvo su doctorado en el Departamento de Estadística de la Universidad Estatal de Iowa. Está interesado en gráficos estadísticos interactivos y computación estadística. Como usuario activo de R, es autor de varios paquetes de R, como **knitr**,**bookdown**,**blogdown**,**xaringan**,**tinytex**,**rolldown**,**animación**,**DT**,**tufte**,**formatR**,**fun**,**xfun**,**testit**,**mime**,**highr**,**servr**, y **Rd2roxygen**, entre los cuales el paquete **animation** ganó el 2009 John M. Chambers Statistical Software Award (ASA). También fue coautor de algunos otros paquetes R, incluidos **shiny**,**rmarkdown**,**pagedown** y **leaflet**.
 
-Es autor de dos libros, _Dynamics Documents with knitr_ [@ knitr2015], y _bookdown: Authoring Books and Technical Documents with R Markdown_ [@ bookdown2016], y es coautor de dos libros, _blogdown: Creación de sitios web con R Markdown_ [@ blogdown2017], y _R Markdown: la guía definitiva_ [@ rmarkdown2018].
+Es autor de dos libros, _Dynamics Documents with knitr_ [@knitr2015], y _bookdown: Authoring Books and Technical Documents with R Markdown_ [@bookdown2016], y es coautor de dos libros, _blogdown: Creación de sitios web con R Markdown_ [@blogdown2017], y _R Markdown: la guía definitiva_ [@rmarkdown2018].
 
 En 2006, fundó Capital of Statistics (https://cosx.org), que se ha convertido en una gran comunidad en línea sobre estadísticas en China. Inició la conferencia R China en 2008, y ha estado involucrado en la organización de conferencias R en China desde entonces. Durante su formación de doctorado en la Universidad Estatal de Iowa, ganó el Premio Vince Sposito de Estadística Informática (2011) y el Premio Snedecor (2012) en el Departamento de Estadística.
 
@@ -22,6 +22,6 @@ Christophe Dervieux es un miembro activo de la comunidad R, que actualmente vive
 
 Está interesado en ayudar a otros a sacar el máximo provecho de R, y puede encontrarlo deambulando en RStudio Community como un sustentador, o en varios foros de GitHub para varios paquetes de R. En ambos lugares, es mejor que lo reconozca por su nombre más corto "cderv".
 
-Como desarrollador de R, es colaborador de varios paquetes de R, como ** bookdown **, ** rmarkdown ** y ** knitr **. También es coautor del paquete ** crrri **. Sus propios proyectos se pueden encontrar en GitHub (https://github.com/cderv), y a veces comparte sus ideas en Twitter (https://twitter.com/chrisderv).
+Como desarrollador de R, es colaborador de varios paquetes de R, como **bookdown**,**rmarkdown** y **knitr**. También es coautor del paquete **crrri**. Sus propios proyectos se pueden encontrar en GitHub (https://github.com/cderv), y a veces comparte sus ideas en Twitter (https://twitter.com/chrisderv).
 
 No le gusta la comida picante, pero le gusta jugar al bádminton todas las semanas.
