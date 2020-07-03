@@ -2,23 +2,24 @@
 title: "R Markdown Cookbook"
 author: "Yihui Xie and Christophe Dervieux"
 date: "`r Sys.Date()`"
+output: pdf_document
 bibliography:
-  - packages.bib
-  - literature.bib
-biblio-style: apalike
+- packages.bib
+- literature.bib
 description: Examples, tips, and tricks of using R Markdown.
 documentclass: krantz
-link-citations: yes
-colorlinks: yes
-graphics: yes
-lot: yes
-lof: yes
 fontsize: 11pt
-mainfont: Palatino
-monofont: "Source Code Pro"
-monofontoptions: "Scale=0.8"
-site: bookdown::bookdown_site
 github-repo: yihui/rmarkdown-cookbook
+graphics: yes
+link-citations: yes
+lof: yes
+lot: yes
+mainfont: Palatino
+monofont: Source Code Pro
+monofontoptions: Scale=0.8
+colorlinks: yes
+site: bookdown::bookdown_site
+biblio-style: apalike
 ---
 
 ```{r setup, include=FALSE}
