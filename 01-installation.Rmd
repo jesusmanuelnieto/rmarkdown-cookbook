@@ -1,6 +1,6 @@
 \mainmatter
 
-# Instalación
+# Instalación {#installation}
 
 Para usar R Markdown, debe instalar R[@R-base] y el paquete R **rmarkdown** [@R-rmarkdown].
 
